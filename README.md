@@ -1,10 +1,20 @@
-<b>Criando um APP de cadastro em memória</b>
+<h3>Criando um APP de cadastro em memória</h3>
 
-Objetivos do Projeto
+<h4>Objetivos do Projeto</h4>
 
-Implementação de CRUD de séries
-Utilização de classes abstratas
-Utilização de Interfaces
-Requisitos Básicos ✔ Lógica de Programação ✔ Conhecimento básico de OO ✔ Conhecimento básico de .NET
+Implementação de CRUD de séries<br>
+Utilização de classes abstratas<br>
+Utilização de Interfaces<br>
 
-CRUD ● Create / Criar ● Read / Ler ● Update / Atualizar ● Delete / Excluir
+<h4>Requisitos Básicos: </h4>
+
+✔ Lógica de Programação <br>
+✔ Conhecimento básico de OO <br>
+✔ Conhecimento básico de .NET <br>
+
+<h4>CRUD  </h4>
+
+● Create / Criar <br>
+● Read / Ler <br>
+● Update / Atualizar <br>
+● Delete / Excluir <br>
